@@ -1,0 +1,22 @@
+{
+  "name": "got-house-of-death",
+  "version": "1.0.0",
+  "description": "Написать функцию генератор. Функция должна найти дом(name), в котором больше всего умерших(died) персонажей.\r API+Docs https://anapioficeandfire.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladyslav666/got-house-of-death.git"
+  },
+  "author": "Vladyslav Kashuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladyslav666/got-house-of-death/issues"
+  },
+  "homepage": "https://github.com/vladyslav666/got-house-of-death#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
